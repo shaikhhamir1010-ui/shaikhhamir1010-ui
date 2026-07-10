@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2563EB&amp;height=200&amp;section=header&amp;text=Hamir%20Shaikh&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=AI%20%26%20Automation%20Learner%20%7C%20Aspiring%20AI%20Developer&amp;descAlignY=58&amp;descSize=18&amp;descColor=bfdbfe" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=2563EB&amp;height=180&amp;section=header&amp;text=Hamir%20Shaikh&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=40" />
 </p>
+
+<h3 align="center">AI Automation Learner &nbsp;|&nbsp; Aspiring AI Developer &nbsp;|&nbsp; CS Diploma Graduate</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
