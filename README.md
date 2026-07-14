@@ -23,7 +23,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const hamir = {
+const amir = {
   title: "AI & Automation Learner | Computer Science Diploma Graduate | Aspiring AI Developer",
   stack: {
     languages:   ["C++", "Python (Learning)", "HTML & CSS (Basic)"],
